@@ -23,4 +23,4 @@ Capabilities:
 * Load commits of repository
 
 ### Screenshot
-![alt text](data/screenshots/app_v0.1.png  "Github Viewer v0.1")
+![alt text](./data/screenshots/app_v0.1.png  "Github Viewer v0.1")
